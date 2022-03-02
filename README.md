@@ -1,2 +1,3 @@
 # Parse Prices
- Parse hands.ru and arenter.ru price
+
+Parse hands.ru and arenter.ru price using selenium.
